@@ -1,2 +1,2 @@
-# plc-ladder-diagram-for-basic-logic-gates
-plc interface by using the semiens software
+# PLC-ladder-diagram-for-basic-logic-gates
+PLC interface by using the semiens software
